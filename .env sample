@@ -1,0 +1,33 @@
+# The domain name of where you host your application
+HOSTNAME=XXXXX.ngrok.io
+
+# Id of the Microsoft Teams application
+APPLICATION_ID=a8967ba0-cf5b-11eb-bcfe-77cf51bca09b
+# Package name of the Microsoft Teams application
+PACKAGE_NAME=teamsyotabspo
+
+# Port for local debugging
+PORT=3007
+
+# Security token for the default outgoing webhook
+SECURITY_TOKEN=
+
+# ID of the Outlook Connector
+CONNECTOR_ID=
+
+# Application Insights instrumentation key
+APPINSIGHTS_INSTRUMENTATIONKEY=
+
+# NGROK configuration for development
+# NGROK authentication token (leave empty for anonymous)
+NGROK_AUTH=
+# NGROK sub domain. ex "myapp" or  (leave empty for random)
+NGROK_SUBDOMAIN=
+# NGROK region. (us, eu, au, ap - default is us)
+NGROK_REGION=
+
+# Debug settings, default logging "msteams"
+DEBUG=msteams
+
+SPORESTAPI_APP_ID=
+SPORESTAPI_APP_SECRET=
