@@ -1,8 +1,8 @@
 # Tab SPO Rest Api access - Microsoft Teams App
 
-Generate a Microsoft Teams application.
+This app describes how to establish a team's tap as its own solution including the generation of a second SharePoint access token.
 
-TODO: Add your documentation here
+For further details see the [authors blog post](https://mmsharepoint.wordpress.com/2021/06/22/use-sharepoint-rest-api-in-microsoft-teams-with-sso-and-on-behalf-flow/)
 
 ## Getting started with Microsoft Teams Apps development
 
@@ -14,8 +14,6 @@ All required source code are located in the `./src` folder - split into two part
 
 * `app` for the application
 * `manifest` for the Microsoft Teams app manifest
-
-For further details see the [Yo Teams wiki for the project structure](https://github.com/PnP/generator-teams/wiki/Project-Structure)
 
 ## Building the app
 
